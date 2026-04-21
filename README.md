@@ -1,5 +1,11 @@
 # 🛡️ IT Cybersecurity Roadmap 2026–2027
 
+![Roadmap](https://img.shields.io/badge/Roadmap-Cybersecurity-0A66C2)
+![CompTIA](https://img.shields.io/badge/CompTIA-Path-EA3E23)
+![Python](https://img.shields.io/badge/Python-Foundation-3776AB?logo=python&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Hands--on-212C42?logo=tryhackme&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 > A structured, self-directed learning roadmap built on CompTIA certifications, mapped to Los Angeles City College (LACC) coursework and TryHackMe labs.
 
 ---
